@@ -1,0 +1,32 @@
+.c2{
+    /* width :20%;
+    height:50px; */
+    background-color : aqua;
+  }
+  #d1{
+    width : 10%;
+    height:10%;
+    background-color:blue;
+    overflow :auto;
+  }
+  #main-wrap{
+    width :90%;
+    background-color: blue;
+    
+    height:auto;
+    background-image : url('../background\ image.jpeg');
+    background-color: #d1d1d1;
+    background-attachment:scroll;
+    background-repeat: no-repeat; 
+    background-position:center;
+    opacity: 0.6;
+    font-size: 25;
+    border-width:100px;
+    border-color: rgb(105, 255, 248);
+    border-style: groove dotted solid outset;
+    border-radius:100px 50px 20px 150px;
+    
+    
+
+    
+  }
